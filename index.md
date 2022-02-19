@@ -1,4 +1,4 @@
-## Welcome to CoffeeDAO landing page
+## Welcome to CommunityDAO landing page
 
 Key Upcoming Dates & Times
 
