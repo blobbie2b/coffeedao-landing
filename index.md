@@ -1,18 +1,18 @@
 ## Welcome to CommunityDAO landing page
 
-Key Upcoming Dates & Times
+### [Join the discord!](https://discord.gg/hevjce3S9b)
 
-Distribution Dry-Run: 2/19 (11am - 1:30pm | actual distribution time is 11am - 12pm)
+### Key Upcoming Dates & Times
 
-Intent to Donate: 2/19 EOD 
+Distribution Event #2 - 3/13/22
 
-Announce Donation Amount per Donor: 2/20 EOD
+Distribution Event #3 - 3/20/22
 
-Donor Donation Due: 2/21 EOD
+### Past Events
 
-Distribution Event #1: 2/26 (11am - 1:30pm | actual distribution time is 11am - 12pm)
+[Distribution Event #1: 2/26](https://docs.google.com/spreadsheets/d/1RO9oqMrQcMmCvrP-Tq09Nm_V-blnLENaYJLLhb8AWng/edit#gid=1181064540)
 
-Resources:
+### Resources
 [Quick Read on CP1 & Above Upcoming Events](https://docs.google.com/document/d/12oDZ1HTVkYquvrQUGqkzeplffgPU4LEKFMdI6s_EQFY/edit?usp=sharing)
 
 [Full Read on CP1 (Coffee Proposal #1)](https://docs.google.com/document/d/1UIysvAvpglkPawQkUQSz19a-H8HeZ5zLCNNwWm-K_pU/edit)
