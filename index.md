@@ -1,5 +1,7 @@
 ## Welcome to CommunityDAO landing page
 
+We're trying to open a physical coffee shop that will be run by this DAO. Our first goal is to do a pop-up coffee shop in Seattle as proof-of-concept before attempting any sort of permanent location.
+
 ### [Join the discord!](https://discord.gg/hevjce3S9b)
 
 ### Key Upcoming Dates & Times
