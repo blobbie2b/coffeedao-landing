@@ -6,7 +6,7 @@ We're trying to open a physical coffee shop that will be run by this DAO. Our fi
 
 ### Key Upcoming Dates & Times
 
-Distribution Event #2 - 3/13/22
+[Distribution Event #2 - 3/13/22](https://docs.google.com/document/d/1dCpEPgWz7Z-SnXDCFkM5b-k1aMijMZkIKEhKqXTgMJg)
 
 Distribution Event #3 - 3/20/22
 
